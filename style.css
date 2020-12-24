@@ -1,0 +1,58 @@
+* {
+    box-sizing: border-box;
+    margin: 0 auto;
+}
+
+body {
+    font-family: Alata;
+   background: linear-gradient(to right, #f4a460 35%, #cd853f 50%);
+}
+
+.marquee {
+    text-align: center;
+    font-size: 50px;
+    color: #f5fffa;
+}
+
+.movie {
+    position: absolute;
+    top: 25%;
+    left: 40%;
+}
+
+h3 {
+    font-size: 45px;
+    color: #ffe4e1;
+    border-bottom: 3px solid #f5fffa;
+}
+
+.movie-time {
+    list-style-type: none;
+    margin-top: 25px;
+    display: inline-flex;
+}
+
+li a {
+    text-decoration: none;
+    padding-left: 20px;
+    color: moccasin;
+    font-size: 20px;
+}
+
+.film {
+    position: absolute;
+    top: 50%;
+    left: 40%;
+}
+
+h4 {
+    font-size: 45px;
+    color: #ffe4e1;
+    border-bottom: 3px solid #f5fffa;
+}
+
+.film-time {
+    list-style-type: none;
+    margin-top: 25px;
+    display: inline-flex;
+}
